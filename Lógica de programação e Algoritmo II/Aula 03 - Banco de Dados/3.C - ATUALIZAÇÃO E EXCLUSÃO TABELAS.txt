@@ -1,0 +1,43 @@
+// ATUALIZAR TABELA:
+
+UPDATE CLIENTES SET NOME = 'Amanda Ribeiro Cerqueira',
+		    EMAIL = 'amanda@devclub.com',
+		    CPF = '90090099999'
+WHERE ID = 1
+
+UPDATE = ele vai trocar o email do registros salvos 
+CLIENTES = nome da tabela
+SET = palavra reservada onde eu vou passar todas as colunas que eu quero mudar o valor
+EMAIL, NOME, CPF = coluna que vai ser mudada o valor
+WHERE =  onde eu quero trocar, sem ele trocaria o email de todos os registro que eu teria.
+ID = 1 parametro pra dizer quem eu vou mudar. Id è a indetificacao da pessoa. 
+
+// EXCLUSÃO: nao apaga a tabela ele apaga o registro.
+
+DELETE FROM CLIENTES WHERE ID = 1
+
+DELETE = deletar
+FROM = da
+CLIENTES = tabela
+WHERE = onde esta localiza
+ID = 1 = identificacao da pessoa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

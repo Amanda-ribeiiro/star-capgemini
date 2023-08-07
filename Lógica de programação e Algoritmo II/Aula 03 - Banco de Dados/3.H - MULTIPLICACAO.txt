@@ -1,0 +1,41 @@
+p. = PRODUTOS
+c. = CATEGORIAS
+
+SQL
+
+SELET p.id 'codigo', p.DESCRICAO, (p.preco * p.qtdestoque) 'Total', c.nome from produtos p inner join categorias c ON p.CATEGORIAID = c.ID
+
+
+
+*/calcular /*
+SELET idproduto, (VALORPRODUTO - (VALORPROUTO * DESCONTO / 100)) FROM itens_vendas
+
+
+*/inserir nova categoria /*
+INSERT INTO CATEGORIAS (NOME) VALUES ('Higiene')
+INSERT INTO CATEGORIAS (NOME) VALUES ('Bebidas)
+
+*/agrupamento pra saber quantos eu tenho em cada categoria/*
+
+SELET count(p.id), c.nome from produtos p inner join categorias c on p.CATEGORIAID = c.ID group by p.CATEGORIAID
+
+*/orderna /*
+SELET * FROM PRODUTOS ORDER BY PRECO
+
+*/orderna ordem alfabetica/*
+SELET * FROM PRODUTOS ORDER BY DESCRICAO 
+
+*/orderna ordem alfabetica inversa (desc) /*
+SELET * FROM PRODUTOS ORDER BY DESCRICAO DESC
+
+
+
+
+
+
+
+
+
+
+
+

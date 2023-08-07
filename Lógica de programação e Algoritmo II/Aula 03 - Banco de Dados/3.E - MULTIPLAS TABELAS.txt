@@ -1,0 +1,42 @@
+CREATE TABLE CATEGORIAS
+(
+	ID INT PRIMARY KEY AUTO_INCREMENT,
+	NOME VARCHAR(50) NOT NULL
+)
+
+
+
+CREATE TABLE PRODUTOS 
+(
+	ID INT PRIMARY KEY AUTO_INCREMENT,
+	DESCRICAO VARCHAR(100) NOT NULL,
+	QTDESTOQUE FLOAT NOT NULL,
+	PRECO FLOAT NOT NULL,
+	CATEGORIAID INT NOT NULL,
+	FOREIGN KEY (CATEGORIAID) REFERENCES CATEGORIAS (ID)
+)
+
+INSERT INTO PRODUTOS (DESCRICAO,QTDESTOQUE,PRECO,CATEGORIAID)
+VALUES ('Calça Pantolona',130,3,1)
+
+
+FOREIGN KEY = chaves estrangeira
+(CATEGORIAID) = nome da categoria que vai receber a chave estrangeira
+REFERENCES = refencia
+CATEGORIAS = nome da tabela que eu quero
+ID = numero da chave primaria ID da tabela que eu quero pegar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

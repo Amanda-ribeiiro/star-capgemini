@@ -1,0 +1,7 @@
+SELECT ID, PRECO, DESCRICAO FROM PRODUTOS
+
+* = todas as colunas
+ID =  identificacao
+PRECO, DESCRICAO = nome dos itens 
+FROM = de
+PRODUTOS = nome da tabela 

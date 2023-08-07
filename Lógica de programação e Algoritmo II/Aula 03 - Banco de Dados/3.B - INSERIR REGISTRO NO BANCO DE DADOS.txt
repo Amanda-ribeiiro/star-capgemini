@@ -1,0 +1,7 @@
+NVARCHAR = caracteres extra
+VARCHAR = caracteres
+
+SQL:
+
+INSERT INTO CLIENTES (NOME,CPF,EMAIL) VALUES
+		     ('Amanda', '999.999.999-99', 'amanda@dev.br')

@@ -1,0 +1,31 @@
+// criar
+CREATE TABLE CLIENTES 
+(
+	ID INT PRIMARY AUTO_INCREMENT,
+	NOME VARCHAR(50) NOT NULL,
+	CPF CHAR(11) NOT NULL,
+	DATANASCIMENTO DATE NOT NULL,
+	EMAIL VARCHAR(70) NOT NULL,
+	ATIVO BIT NOT NULL
+)
+
+
+// inserir
+INSERT INTO CLIENTES (NOME, CPF, DATANASCIMENTO, EMAIL, ATIVO)
+VALUES('Amanda Ribeiro','90090090099','1997-01-19','amanda@dev.com', true)
+
+
+
+
+ATIVO = posso desativar a pessoa ao inves de excluir
+BIT = true ou false 
+CHAR = sempre vai ter aquele mesmo numero de caracteres fixo. ex: cpf sempre vai ter 11
+VARCHAR = passo a quantidade mas cada registro pode ter a quantidade diferente dentro que eu deixei estabelecido dentro do ()
+CREATE = cria a tabela
+INSERT = cria registro para uma tabela
+DROP = apaga uma tabela 
+DELETE = apaga registro de uma tabela
+
+DROP TABLE CLIENTES = apagar a tabela de clientes 
+
+
