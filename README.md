@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/SC-900-Microsoft/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-blue"></a>
-    <a href="https://github.com/Amanda-ribeiiro/SC-900-Microsoft/blob/main/README.md"><img src="https://img.shields.io/badge/Language-English-navy"></a>
+    <a href="https://github.com/Amanda-ribeiiro/star-capgemini/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-blue"></a>
+    <a href="https://github.com/Amanda-ribeiiro/star-capgemini/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-English-navy"></a>
 </div>
 <h1>
     <a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/my/">
