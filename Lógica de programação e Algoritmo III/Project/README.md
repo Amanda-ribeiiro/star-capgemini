@@ -65,3 +65,18 @@ Antes de criar o projeto certifique-se que tem o gerenciador instalado, voce pod
 ````bash
 mvn -version
 ````
+
+<table align=right>
+  <tr>
+    <td>
+      <img width="50px" align="center" src="https://avatars.githubusercontent.com/Amanda-ribeiiro"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/Amanda-ribeiiro">
+        <span><b>Amanda Ribeiro</b></span>
+      </a>
+      <br>
+      <span>Desenvolvedora Front-end</span>
+    </td>
+  </tr>
+</table>
