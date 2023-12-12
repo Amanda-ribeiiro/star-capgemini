@@ -71,3 +71,35 @@
    - 7.2 Rodando a aplicação em modo debug
    - 7.3 Testes unitários
 
+## Comparação entre Maven, Gradle e Ant em Projetos Java
+
+### Maven
+
+- **Objetivo Principal:** Gerenciamento de build, dependências e documentação.
+- **Configuração:** Utiliza um arquivo XML chamado `pom.xml` para configurar o projeto.
+- **Convenção sobre Configuração:** Segue uma abordagem "opinionated" onde há uma convenção padrão para a estrutura de diretórios e configurações, facilitando a configuração mínima do projeto.
+- **Plugins:** Usa plugins Maven para execução de tarefas específicas.
+- **Central Repository:** Utiliza o repositório central do Maven para armazenar bibliotecas e dependências.
+
+### Gradle
+
+- **Objetivo Principal:** Automatização de build, com uma abordagem mais flexível e extensível.
+- **Configuração:** Utiliza um DSL (Domain Specific Language) baseado em Groovy ou Kotlin para configurar o projeto.
+- **Convenção sobre Configuração:** Pode seguir uma convenção, mas é mais flexível em comparação com Maven, permitindo configurações personalizadas.
+- **Plugins:** Usa plugins do próprio Gradle, e pode incorporar dependências do Maven.
+- **Desempenho:** Geralmente considerado mais rápido do que o Maven.
+
+### Ant
+
+- **Objetivo Principal:** Automação de build.
+- **Configuração:** Utiliza um arquivo XML chamado `build.xml` para configurar o projeto.
+- **Convenção sobre Configuração:** Menos estruturado que o Maven, você precisa configurar muitos detalhes manualmente.
+- **Plugins:** Não possui um sistema de plugins integrado como Maven e Gradle, e geralmente requer mais scripts personalizados.
+- **Flexibilidade:** Oferece muita flexibilidade, mas com essa flexibilidade vem a responsabilidade de configurar detalhes específicos.
+
+> **Resumo:**
+> - Maven é conhecido por suas convenções estritas e facilidade de uso para projetos com estrutura padrão.
+> - Gradle oferece mais flexibilidade e é altamente extensível, tornando-o uma escolha poderosa para projetos mais complexos.
+> - Ant é mais antigo e fornece flexibilidade, mas muitas tarefas precisam ser configuradas manualmente.
+
+
