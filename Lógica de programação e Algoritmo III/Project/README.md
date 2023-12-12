@@ -16,10 +16,11 @@
   <a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/my/" target="_blank">
     <img src="https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a">
   </a>  
-  <a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/my/)" target="_blank">
+  <a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/my/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-12ABDB?style=for-the-badge">
   </a>
 </div>
+
 
 # Título do Projeto
 
