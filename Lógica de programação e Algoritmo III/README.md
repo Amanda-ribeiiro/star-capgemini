@@ -4,7 +4,7 @@
 
 - 2 - **Linguagem JAVA**
    - 2.1 Conhecendo sua ferramenta de desenvolvimento [(NetBeans)](https://netbeans.apache.org/front/main/)
-   - 2.2 Diferença entre [Portugol](https://dgadelha.github.io/Portugol-Webstudio/) e o [Java](Java)
+   - 2.2 Diferença entre [Portugol](https://dgadelha.github.io/Portugol-Webstudio/) e o [Java](https://www.oracle.com/br/java/technologies/downloads/)
    - 2.3 Comentários
    - 2.4 Comando de leitura e Gravação
    - 2.5 Variáveis, tipos e operadores
