@@ -30,22 +30,22 @@
     <tr>
       <td>Introdução a Lógica de Programação</td></td>
       <td align=center>1</td>
-      <td><a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=2">course</a></td>
+      <td><a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=2" target="_blank">course</a></td>
     </tr>
     <tr>
       <td>Lógica de Programação e Algoritmos I</td>
       <td align=center>2</td>
-      <td><a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=3">course</a></td>
+      <td><a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=3" target="_blank">course</a></td>
     </tr>
     <tr>
       <td>Lógica de Programação e Algoritmos II</td>
       <td align=center>3</td>
-      <td><a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=4">course</a></td>
+      <td><a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=4" target="_blank">course</a></td>
     </tr>
     <tr>
       <td>Lógica de Programação e Algoritmos III</td>
       <td align=center>4</td>
-      <td><a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=21">course</a></td>
+      <td><a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=21" target="_blank">course</a></td>
     </tr>
   </tbody>
 </table>
