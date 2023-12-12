@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/star-capgemini/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-blue"></a>
-    <a href="https://github.com/Amanda-ribeiiro/star-capgemini/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-English-navy"></a>
+    <a href="https://github.com/Amanda-ribeiiro/star-capgemini/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-12ABDB"></a>
+    <a href="https://github.com/Amanda-ribeiiro/star-capgemini/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-English-0070AD"></a>
 </div>
 <h1>
     <a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/my/">
@@ -9,8 +9,14 @@
    Programa Start By Capgemini
 </h1>
 
-[![Link do Curso](https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a)](https://capgeminischool.brazilsouth.cloudapp.azure.com/my/)
-[![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-0300a0?style=for-the-badge)](https://capgeminischool.brazilsouth.cloudapp.azure.com/my/)
+<div>
+    <a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/my/" target="_blank">
+        <img src="https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a">
+    </a>
+    <a href="https://capgeminischool.brazilsouth.cloudapp.azure.com/my/" target="_blank">
+        <img src="https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-0300a0?style=for-the-badge">
+    </a>
+</div>
 
 <table>
   <thead>
@@ -44,10 +50,7 @@
   </tbody>
 </table>
 
-<br>
-<br>
-<br>
-
+<hr>
 
 <table align=right>
   <tr>
